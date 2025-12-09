@@ -1,4 +1,4 @@
-# Digital_Scams_in_Australia
+# Digital Scams in Australia
 
 ## Overview
 This repository contains an interactive narrative visualisation examining digital scam activity in Australia between 2021 and 2023. The project integrates Scamwatch data, Australian Bureau of Statistics (ABS) population data, and SEIFA socioeconomic indicators to provide a comprehensive analysis of scam trends, demographic vulnerability, geographic patterns, and reporting behaviour.
